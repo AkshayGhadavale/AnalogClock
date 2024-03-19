@@ -19,7 +19,7 @@ body {
 	height: 30rem;
 	border: 20px solid rgb(125, 8, 8);
     background-color: aliceblue;
-    background-image: url(./pngwing.com.png);
+    background-image: url("./pngwing.com.png");
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
